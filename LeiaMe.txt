@@ -1,0 +1,9 @@
+Nome: Caio Augusto de Souza Mota
+
+Título: AVALIAÇÃO DE ALGORITMOS DE APRENDIZADO DE MÁQUINA PARA PREDIÇÃO DE MORTALIDADE NEONATAL UTILIZANDO DADOS DO DATASUS 
+
+Resumo: A mortalidade infantil pode ser usada para analisar níveis de pobreza e socioeconômicos, assim como medir qualidade de saúde e tecnologia médica disponível em uma população. O aprendizado de máquina é uma área da inteligência artificial que propõe métodos de análise de dados que automatizam a construção de modelos analíticos com base em reconhecimento de padrões, baseado no conceito de que sistemas podem aprender com dados, identificando padrões e tomando decisões com o mínimo de intervenção humana. O objetivo deste trabalho é testar e analisar dois tipos diferentes de algoritmos de aprendizado de máquina, utilizando a base de dados do SIM e SINASC do Brasil, do período de 2016 até 2018, para gerar modelos para predição de mortalidade neonatal. Os métodos utilizados foram Árvore de Decisão e de Regressão Logística e como métricas para avaliar os modelos resultantes foram utilizadas a AUC, Curva ROC e a Matriz de Confusão. Como resultado, apesar de terem alcançado valores de AUC 0.93, ambos modelos de predições acertaram muitas predições de vivos cerca de 671.000 e erraram muitas predições de mortos cerca de 2.600, principalmente devido ao fato de a base estar desbalanceada.
+
+Orientador: Prof. Me. Everton Josué da Silva
+  
+Mês/Ano: Junho de 2021
